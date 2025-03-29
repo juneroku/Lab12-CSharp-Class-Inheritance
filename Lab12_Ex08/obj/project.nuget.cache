@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdkG4JYtxHU=",
+  "success": true,
+  "projectFilePath": "C:\\OOP-2567\\L12\\Lab12-CSharp-Class-Inheritance\\Lab12_Ex08\\Lab12_Ex08.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\horiz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\horiz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\horiz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\horiz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
